@@ -1,0 +1,1 @@
+Sender is the server. Receiver is the client. The 4 pairs of java files implement 4 network patcket sending strategies: naive, stop-and-wait, go-back-n, and selective repeat. If you are interested in learning more about networks, here are some slides to refer to: https://www.inf.ed.ac.uk/teaching/courses/comn/schedule.html.
